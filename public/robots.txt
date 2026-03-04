@@ -1,0 +1,30 @@
+# Robots.txt for Allt I Ett Express AB website
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /api/
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Specific rules for Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+Disallow: /
+
+# Sitemap location
+Sitemap: https://allt-i-ett-express-ab.vercel.app/sitemap.xml
+# OR for your custom domain:
+# Sitemap: https://yourdomain.com/sitemap.xml

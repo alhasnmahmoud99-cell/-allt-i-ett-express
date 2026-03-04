@@ -1,0 +1,296 @@
+{
+  "common": {
+    "appName": "Allt I Ett Express AB",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "locations": "Locations",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "settings": "Settings",
+    "profile": "Profile",
+    "help": "Help",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "search": "Search",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Info",
+    "noResults": "No results found",
+    "tryAgain": "Try Again",
+    "or": "or"
+  },
+  "nav": {
+    "home": "Home",
+    "cleaning": "Cleaning",
+    "garden": "Garden",
+    "moreServices": "More Services",
+    "business": "For Businesses",
+    "about": "About Us",
+    "book": "Book Now",
+    "account": "My Account",
+    "bookings": "My Bookings",
+    "timeBànk": "Time Bank",
+    "instructions": "Instructions",
+    "settings": "Settings"
+  },
+  "hero": {
+    "title": "Your Home, Always Perfectly Clean",
+    "subtitle": "Professional vetted cleaners — book online in 60 seconds",
+    "ctaPrimary": "Book Now",
+    "ctaSecondary": "Explore Services",
+    "scrollHint": "Scroll to learn more",
+    "badges": {
+      "quality": "Quality Guarantee",
+      "insured": "Fully Insured",
+      "eco": "Eco-Friendly",
+      "staff": "Trained Staff",
+      "cancellation": "Easy Cancellation"
+    }
+  },
+  "services": {
+    "title": "Everything Your Home Needs",
+    "homeCleaning": {
+      "name": "Home Cleaning",
+      "description": "Regular cleaning for a fresh, spotless home"
+    },
+    "deepCleaning": {
+      "name": "Deep Cleaning",
+      "description": "Thorough cleaning reaching every corner"
+    },
+    "windowCleaning": {
+      "name": "Window Cleaning",
+      "description": "Crystal clear windows inside and out"
+    },
+    "moveOutCleaning": {
+      "name": "Move-Out Cleaning",
+      "description": "Complete cleaning for move-outs and move-ins"
+    },
+    "gardenService": {
+      "name": "Garden Service",
+      "description": "Beautiful outdoor spaces maintained"
+    },
+    "officeCleaning": {
+      "name": "Office Cleaning",
+      "description": "Professional workplace cleanliness"
+    }
+  },
+  "howItWorks": {
+    "title": "Simple, Fast, Reliable",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Choose & Address",
+        "description": "Select your service and enter your address"
+      },
+      {
+        "number": "2",
+        "title": "Pick Time",
+        "description": "Choose date, time, and cleaning frequency"
+      },
+      {
+        "number": "3",
+        "title": "Relax",
+        "description": "Come home to a spotless, fresh space"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Your Trust Is Our Guarantee",
+    "points": [
+      "Permanent employees, not freelancers",
+      "Full background security check on every staff member",
+      "Eco-friendly products included in price",
+      "Fixed transparent pricing, no surprises",
+      "Quality guarantee — we fix it if unhappy"
+    ],
+    "cta": "Learn About Our Standards"
+  },
+  "stats": {
+    "customers": "50,000+ Happy Customers",
+    "cities": "20+ Cities",
+    "professionals": "1,000+ Professionals",
+    "experience": "15 Years Experience"
+  },
+  "booking": {
+    "title": "Book Your Cleaning",
+    "step": "Step {{current}} of {{total}}",
+    "progress": "Progress",
+    "serviceSelection": "Select Service",
+    "homeDetails": "Home Details",
+    "schedule": "Schedule",
+    "extras": "Extras",
+    "contact": "Contact Info",
+    "summary": "Summary",
+    "selectService": "Select a service to continue",
+    "apartmentSize": "Apartment Size (sqm)",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "floorNumber": "Floor Number",
+    "hasElevator": "Has Elevator",
+    "homeType": "Home Type",
+    "frequency": "Frequency",
+    "firstDate": "First Cleaning Date",
+    "timeSlot": "Time Slot",
+    "morning": "Morning (8:00 AM - 12:00 PM)",
+    "afternoon": "Afternoon (12:00 PM - 4:00 PM)",
+    "evening": "Evening (4:00 PM - 8:00 PM)",
+    "instructions": "Special Instructions",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "paymentMethod": "Payment Method",
+    "creditCard": "Credit Card",
+    "digitalWallet": "Digital Wallet",
+    "payOnDay": "Pay on Service Day",
+    "createAccount": "Create account for future bookings",
+    "termsAccepted": "I accept terms and conditions",
+    "confirmBooking": "Confirm Booking",
+    "bookingConfirmed": "Booking Confirmed!",
+    "bookingNumber": "Booking Number: {{number}}",
+    "confirmationSent": "Confirmation email has been sent",
+    "manageBookings": "Manage Bookings"
+  },
+  "pricing": {
+    "basePrice": "Base Price",
+    "extras": "Extras",
+    "discount": "Discount",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "weekly": "Weekly (-15%)",
+    "biweekly": "Every 2 Weeks (-10%)",
+    "monthly": "Monthly (-5%)",
+    "oneTime": "One Time",
+    "pricePerClean": "per clean"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "verified": "Verified on Trustpilot"
+  },
+  "footer": {
+    "company": "Company",
+    "services": "Services",
+    "support": "Support",
+    "legal": "Legal",
+    "followUs": "Follow Us",
+    "rights": "© 2026 Allt I Ett Express AB. All rights reserved.",
+    "home": "Home",
+    "cleaning": "Cleaning",
+    "garden": "Garden",
+    "business": "For Business",
+    "about": "About Us",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "locations": "Locations",
+    "careers": "Careers",
+    "sustainability": "Sustainability",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "accessiibility": "Accessibility"
+  },
+  "cookies": {
+    "title": "We Use Cookies",
+    "message": "We use cookies to improve your experience, personalize content, and analyze our traffic.",
+    "acceptAll": "Accept All",
+    "myPreferences": "My Preferences",
+    "essentialOnly": "Essential Only",
+    "essential": "Essential",
+    "essentialDesc": "Required for basic site functionality",
+    "analytics": "Analytics",
+    "analyticsDesc": "Help us improve with usage data",
+    "marketing": "Marketing",
+    "marketingDesc": "Personalized ads and content"
+  },
+  "auth": {
+    "welcome": "Welcome Back",
+    "createAccount": "Create Your Account",
+    "emailPlaceholder": "your@email.com",
+    "passwordPlaceholder": "At least 8 characters",
+    "namePlaceholder": "Your Full Name",
+    "loginButton": "Login",
+    "registerButton": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset Password",
+    "invalidEmail": "Please enter a valid email",
+    "passwordTooShort": "Password must be at least 8 characters",
+    "passwordMismatch": "Passwords do not match",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Account created successfully!",
+    "loginError": "Invalid email or password",
+    "registerError": "Registration failed"
+  },
+  "dashboard": {
+    "title": "My Account",
+    "discover": "Discover",
+    "bookings": "Bookings",
+    "timeBank": "Time Bank",
+    "instructions": "Instructions",
+    "settings": "Settings",
+    "upcomingBooking": "Upcoming Booking",
+    "date": "Date",
+    "service": "Service",
+    "cleaner": "Cleaner",
+    "status": "Status",
+    "manage": "Manage",
+    "rateExperience": "Rate Experience",
+    "bookAgain": "Book Again",
+    "availableHours": "Available Hours",
+    "hoursUsed": "Hours Used",
+    "expiryDate": "Expiry Date",
+    "useHours": "Use My Hours",
+    "personalInfo": "Personal Information",
+    "savedPayments": "Saved Payment Methods",
+    "notifications": "Notifications Settings",
+    "deleteAccount": "Delete Account",
+    "password": "Password"
+  },
+  "messages": {
+    "bookingSuccess": "Booking confirmed successfully!",
+    "bookingError": "There was an error booking your service.",
+    "updateSuccess": "Updated successfully!",
+    "deleteSuccess": "Deleted successfully!",
+    "deleteConfirm": "Are you sure you want to delete this?",
+    "invalidZip": "This ZIP code is not available in our service area.",
+    "zipAvailable": "Great! We service your area.",
+    "bookingCancelled": "Booking has been cancelled.",
+    "noUpcomingBookings": "You have no upcoming bookings.",
+    "noPaymentMethods": "No saved payment methods yet."
+  },
+  "chat": {
+    "title": "How can we help?",
+    "inputPlaceholder": "Type your message...",
+    "send": "Send",
+    "suggestedQuestions": [
+      "What are your prices?",
+      "How do I book a cleaning?",
+      "Do you work in my city?",
+      "What is included in home cleaning?"
+    ],
+    "typingIndicator": "Allt I Ett Express AB is typing...",
+  },
+  "breadcrumb": {
+    "home": "Home"
+  }
+}

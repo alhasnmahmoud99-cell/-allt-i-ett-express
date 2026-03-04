@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1b4d3e;
+  --primary-light: #2eaa73;
+  --primary-ultra-light: #e8f5ee;
+  --accent: #f4c542;
+  --background: #f8faf9;
+  --surface: #ffffff;
+  --text-primary: #0d1f17;
+  --text-secondary: #4a6358;
+  --border: #dde8e2;
+  --shadow-soft: 0 8px 40px rgba(27, 77, 62, 0.12);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  color: var(--text-primary);
+  background-color: var(--background);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+}
+
+.font-mono {
+  font-family: 'DM Mono', monospace;
+}
+
+.container-main {
+  @apply mx-auto px-4 max-w-container;
+}
+
+.btn-primary {
+  @apply px-6 py-3 bg-primary-light text-white rounded-btn font-medium hover:scale-102 transition-transform duration-200;
+}
+
+.btn-outline {
+  @apply px-6 py-3 border-2 border-primary text-primary rounded-btn font-medium hover:bg-primary-ultra-light transition-colors duration-200;
+}
+
+.card-base {
+  @apply bg-surface rounded-card shadow-soft;
+}
+
+.section-padding {
+  @apply py-16 md:py-24;
+}
+
+/* RTL Support */
+[dir='rtl'] {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir='rtl'] .ltr-text {
+  direction: ltr;
+  text-align: left;
+  display: inline-block;
+}
+
+/* Smooth scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}

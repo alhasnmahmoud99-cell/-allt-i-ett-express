@@ -1,0 +1,296 @@
+{
+  "common": {
+    "appName": "سبارك هوم",
+    "bookNow": "احجز الآن",
+    "learnMore": "اعرف المزيد",
+    "getStarted": "ابدأ الآن",
+    "contactUs": "تواصل معنا",
+    "about": "عن",
+    "services": "الخدمات",
+    "pricing": "التسعير",
+    "locations": "المواقع",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "إنشاء حساب",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "help": "مساعدة",
+    "language": "اللغة",
+    "english": "English",
+    "arabic": "العربية",
+    "search": "بحث",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "save": "حفظ",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "warning": "تحذير",
+    "info": "معلومة",
+    "noResults": "لم يتم العثور على نتائج",
+    "tryAgain": "حاول مجددا",
+    "or": "أو"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "cleaning": "التنظيف",
+    "garden": "الحديقة",
+    "moreServices": "خدمات أخرى",
+    "business": "للشركات",
+    "about": "من نحن",
+    "book": "احجز الآن",
+    "account": "حسابي",
+    "bookings": "حجوزاتي",
+    "timeBank": "بنك الساعات",
+    "instructions": "التعليمات",
+    "settings": "الإعدادات"
+  },
+  "hero": {
+    "title": "منزلك دائماً في أفضل حال",
+    "subtitle": "عمال نظافة موثوقون - احجز أونلاين في 60 ثانية",
+    "ctaPrimary": "احجز الآن",
+    "ctaSecondary": "اكتشف الخدمات",
+    "scrollHint": "مرر لأسفل لمعرفة المزيد",
+    "badges": {
+      "quality": "ضمان الجودة",
+      "insured": "مؤمنون بالكامل",
+      "eco": "صديق للبيئة",
+      "staff": "كادر مدرب",
+      "cancellation": "إلغاء سهل"
+    }
+  },
+  "services": {
+    "title": "كل ما يحتاجه منزلك",
+    "homeCleaning": {
+      "name": "تنظيف المنزل",
+      "description": "تنظيف منتظم لمنزل نظيف ومنعش"
+    },
+    "deepCleaning": {
+      "name": "تنظيف عميق",
+      "description": "تنظيف شامل يصل إلى كل زاوية"
+    },
+    "windowCleaning": {
+      "name": "تنظيف النوافذ",
+      "description": "نوافذ بلورية من الداخل والخارج"
+    },
+    "moveOutCleaning": {
+      "name": "تنظيف الإخلاء",
+      "description": "تنظيف شامل للخروج والدخول"
+    },
+    "gardenService": {
+      "name": "خدمة الحدائق",
+      "description": "مساحات خارجية جميلة وموضبة"
+    },
+    "officeCleaning": {
+      "name": "تنظيف المكاتب",
+      "description": "نظافة احترافية في مكان العمل"
+    }
+  },
+  "howItWorks": {
+    "title": "بسيط وسريع وموثوق",
+    "steps": [
+      {
+        "number": "1",
+        "title": "اختر وأدخل العنوان",
+        "description": "اختر خدمتك وأدخل عنوانك"
+      },
+      {
+        "number": "2",
+        "title": "اختر الوقت",
+        "description": "اختر التاريخ والوقت وتكرار التنظيف"
+      },
+      {
+        "number": "3",
+        "title": "استرخ",
+        "description": "عد إلى منزل نظيف ومنعش"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "ثقتك هي ضماننا",
+    "points": [
+      "موظفون دائمون وليسوا عاملين مستقلين",
+      "فحص أمني شامل لكل عضو في الكادر",
+      "منتجات صديقة للبيئة مضمنة في السعر",
+      "تسعير ثابت وشفاف بدون مفاجآت",
+      "ضمان الجودة - نحن نصلحه إذا لم تكن راضياً"
+    ],
+    "cta": "اعرف معاييرنا"
+  },
+  "stats": {
+    "customers": "50,000+ عميل سعيد",
+    "cities": "20+ مدينة",
+    "professionals": "1,000+ متخصص",
+    "experience": "15 سنة من الخبرة"
+  },
+  "booking": {
+    "title": "احجز تنظيفك",
+    "step": "الخطوة {{current}} من {{total}}",
+    "progress": "التقدم",
+    "serviceSelection": "اختر الخدمة",
+    "homeDetails": "تفاصيل المنزل",
+    "schedule": "جدولة",
+    "extras": "إضافيات",
+    "contact": "معلومات التواصل",
+    "summary": "ملخص",
+    "selectService": "اختر خدمة للمتابعة",
+    "apartmentSize": "حجم المنزل (متر مربع)",
+    "bedrooms": "غرف النوم",
+    "bathrooms": "الحمامات",
+    "floorNumber": "رقم الطابق",
+    "hasElevator": "يوجد مصعد",
+    "homeType": "نوع المنزل",
+    "frequency": "التكرار",
+    "firstDate": "تاريخ التنظيف الأول",
+    "timeSlot": "فترة زمنية",
+    "morning": "صباحاً (8:00 ص - 12:00 ظ)",
+    "afternoon": "ظهراً (12:00 ظ - 4:00 م)",
+    "evening": "مساءً (4:00 م - 8:00 م)",
+    "instructions": "تعليمات خاصة",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "paymentMethod": "طريقة الدفع",
+    "creditCard": "بطاقة ائتمان",
+    "digitalWallet": "محفظة رقمية",
+    "payOnDay": "الدفع يوم الخدمة",
+    "createAccount": "إنشاء حساب للحجوزات المستقبلية",
+    "termsAccepted": "أوافق على الشروط والأحكام",
+    "confirmBooking": "أكّد الحجز",
+    "bookingConfirmed": "تم تأكيد الحجز!",
+    "bookingNumber": "رقم الحجز: {{number}}",
+    "confirmationSent": "تم إرسال بريد التأكيد",
+    "manageBookings": "إدارة الحجوزات"
+  },
+  "pricing": {
+    "basePrice": "السعر الأساسي",
+    "extras": "إضافيات",
+    "discount": "خصم",
+    "subtotal": "المجموع الفرعي",
+    "total": "الإجمالي",
+    "weekly": "أسبوعي (-15%)",
+    "biweekly": "كل أسبوعين (-10%)",
+    "monthly": "شهري (-5%)",
+    "oneTime": "مرة واحدة",
+    "pricePerClean": "لكل تنظيفة"
+  },
+  "testimonials": {
+    "title": "ماذا يقول عملاؤنا",
+    "verified": "تم التحقق منها على Trustpilot"
+  },
+  "footer": {
+    "company": "الشركة",
+    "services": "الخدمات",
+    "support": "الدعم",
+    "legal": "القانونية",
+    "followUs": "تابعنا",
+    "rights": "© 2026 سبارك هوم. جميع الحقوق محفوظة.",
+    "home": "الرئيسية",
+    "cleaning": "التنظيف",
+    "garden": "الحديقة",
+    "business": "للشركات",
+    "about": "من نحن",
+    "blog": "المدونة",
+    "faq": "الأسئلة الشائعة",
+    "contact": "تواصل معنا",
+    "locations": "المواقع",
+    "careers": "الوظائف",
+    "sustainability": "الاستدامة",
+    "terms": "الشروط",
+    "privacy": "الخصوصية",
+    "cookies": "الكوكيز",
+    "accessibility": "إمكانية الوصول"
+  },
+  "cookies": {
+    "title": "نستخدم ملفات تعريف الارتباط",
+    "message": "نستخدم ملفات تعريف الارتباط لتحسين تجربتك وتخصيص المحتوى وتحليل حركة المرور.",
+    "acceptAll": "قبول الكل",
+    "myPreferences": "تفضيلاتي",
+    "essentialOnly": "الأساسية فقط",
+    "essential": "أساسية",
+    "essentialDesc": "مطلوبة لعمل الموقع الأساسي",
+    "analytics": "التحليلات",
+    "analyticsDesc": "تساعدنا على التحسن بيانات الاستخدام",
+    "marketing": "التسويق",
+    "marketingDesc": "إعلانات ومحتوى شخصي"
+  },
+  "auth": {
+    "welcome": "أهلا وسهلا",
+    "createAccount": "أنشئ حسابك",
+    "emailPlaceholder": "your@email.com",
+    "passwordPlaceholder": "8 أحرف على الأقل",
+    "namePlaceholder": "اسمك الكامل",
+    "loginButton": "تسجيل الدخول",
+    "registerButton": "إنشاء حساب",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "invalidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+    "passwordTooShort": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+    "passwordMismatch": "كلمات المرور غير متطابقة",
+    "loginSuccess": "تم تسجيل الدخول بنجاح!",
+    "registerSuccess": "تم إنشاء الحساب بنجاح!",
+    "loginError": "بريد إلكتروني أو كلمة مرور غير صحيحة",
+    "registerError": "فشل التسجيل"
+  },
+  "dashboard": {
+    "title": "حسابي",
+    "discover": "اكتشف",
+    "bookings": "الحجوزات",
+    "timeBank": "بنك الساعات",
+    "instructions": "التعليمات",
+    "settings": "الإعدادات",
+    "upcomingBooking": "الحجز القادم",
+    "date": "التاريخ",
+    "service": "الخدمة",
+    "cleaner": "العامل",
+    "status": "الحالة",
+    "manage": "إدارة",
+    "rateExperience": "قيّم التجربة",
+    "bookAgain": "احجز مرة أخرى",
+    "availableHours": "الساعات المتاحة",
+    "hoursUsed": "الساعات المستخدمة",
+    "expiryDate": "تاريخ الانتهاء",
+    "useHours": "استخدم ساعاتي",
+    "personalInfo": "البيانات الشخصية",
+    "savedPayments": "طرق الدفع المحفوظة",
+    "notifications": "إعدادات الإشعارات",
+    "deleteAccount": "حذف الحساب",
+    "password": "كلمة المرور"
+  },
+  "messages": {
+    "bookingSuccess": "تم تأكيد الحجز بنجاح!",
+    "bookingError": "حدث خطأ في الحجز.",
+    "updateSuccess": "تم التحديث بنجاح!",
+    "deleteSuccess": "تم الحذف بنجاح!",
+    "deleteConfirm": "هل أنت متأكد من حذف هذا؟",
+    "invalidZip": "هذا الرمز البريدي غير متاح في منطقة خدماتنا.",
+    "zipAvailable": "رائع! نخدم منطقتك.",
+    "bookingCancelled": "تم إلغاء الحجز.",
+    "noUpcomingBookings": "ليس لديك حجوزات قادمة.",
+    "noPaymentMethods": "لا توجد طرق دفع محفوظة بعد."
+  },
+  "chat": {
+    "title": "كيف يمكننا مساعدتك؟",
+    "inputPlaceholder": "اكتب رسالتك...",
+    "send": "إرسال",
+    "suggestedQuestions": [
+      "ما هي أسعاركم؟",
+      "كيف أحجز تنظيفاً؟",
+      "هل تعملون في مدينتي؟",
+      "ما المضمنة في تنظيف المنزل؟"
+    ],
+    "typingIndicator": "سبارك هوم يكتب..."
+  },
+  "breadcrumb": {
+    "home": "الرئيسية"
+  }
+}
